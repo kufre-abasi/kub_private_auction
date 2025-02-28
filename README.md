@@ -2,7 +2,7 @@
 
 [//]: # (<img alt="workshop/auction" width="1412" src="../.resources/auction.png">)
 
-A first-price sealed-bid auction in Leo.
+###Private auction in Leo.
 
 ## Summary
 
